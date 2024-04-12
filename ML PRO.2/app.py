@@ -48,7 +48,7 @@ def add_bg_from_local(image_file):
     )
 
 # Set background image
-add_bg_from_local('Wall.jpg')
+add_bg_from_local('wall.jpg')
 
 # ... (rest of your code)
 
