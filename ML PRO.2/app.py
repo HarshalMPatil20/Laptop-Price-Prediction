@@ -181,7 +181,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-tab1, tab2, tab3 = st.tabs(["Info"])
+tab1 = st.tabs(["Info"])
 
 with tab1:
    st.header("What Factors Affect Laptop Computer Prices?")
