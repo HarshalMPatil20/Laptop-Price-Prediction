@@ -79,7 +79,7 @@ pipe = pickle.load(open('pipe.pkl','rb'))
 file='df.pkl'
 df = pickle.load(open(file,'rb'))
 
-st.title('_Laptop price Predictor_')
+st.title('_PricePredictorX_')
 
 def convert_boolean_to_custom_input(boolean_input):
   if boolean_input:
