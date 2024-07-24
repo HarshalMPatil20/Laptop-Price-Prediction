@@ -99,8 +99,10 @@ _Welcome to the PricePredictorX! This application leverages machine learning tec
 - View the model performance metrics in the console.
 - Predictions are displayed in the web interface with visualization for better understanding.
 
-    &nbsp; <img src="src/Screenshot 2024-07-24 155055.png" height="250"   /> &nbsp; <img src="src/Screenshot 2024-07-24 155356.png" height="250"   />     
-    &nbsp; <img src="src/Screenshot 2024-07-24 155421.png" height="250"   /> &nbsp; <img src="src/Screenshot 2024-07-24 155040.png" height="250"   />
+    &nbsp; <img src="src/Screenshot 2024-07-24 155055.png" height="300"   /> &nbsp;
+    &nbsp; <img src="src/Screenshot 2024-07-24 155356.png" height="300"   />     
+    &nbsp; <img src="src/Screenshot 2024-07-24 155421.png" height="300"   /> &nbsp; 
+    &nbsp; <img src="src/Screenshot 2024-07-24 155040.png" height="300"   />
 
 
 &nbsp;
