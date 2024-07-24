@@ -1,5 +1,15 @@
 
-@import url('nasalization-rg.otf'); 
+@import url('nasalization-rg.ttf'); 
 html, body, [class*="css"] {
-    font-family: 'nasalization', sans-serif; 
+    font-family: 'nasalization'; 
 }
+
+@import url('nasalization-rg.ttf'); 
+
+html, body, [class*="css"] {
+    font-family: 'Roboto', sans-serif; 
+    font-size: 18px;
+    font-weight: 500;
+    color: #091747;
+}
+

@@ -15,21 +15,21 @@ with open("style.css") as css:
 st.markdown(
         """
         <style>
-@font-face {
-  font-family: 'nasalization-rg';
-  font-style: normal;
-  font-weight: 400;
-  src: url(nasalization-rg.ttf) format('truetype');
- }
+        @font-face {
+        font-family: 'nasalization-rg';
+        font-style: normal;
+        font-weight: 400;
+        src: url('nasalization-rg.ttf') format('truetype');
+    }
 
     html, body, [class*="css"]  {
-    font-family: 'nasalization-rg';
+    font-family: 'nasalization';
     }
     </style>
-
     """,
-        unsafe_allow_html=True,
-    )
+    unsafe_allow_html=True,
+)
+
 
 # Function to set background image for the entire app
 def add_bg_from_local(image_file):
